@@ -22,7 +22,7 @@ pipeline {
                 }
             }
         }
-tage('stage 2') {
+stage('stage 2') {
 
  steps {
 
